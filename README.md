@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frogface539" alt="frogface539" /></a> </p>
 
-<img align="right" width="400" src="[https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jm59dbt6y20vhx23n4ebxs1fz68d9m5ni1nb4ne0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)">
+<img align="right" width="400" src="https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=6c09b952jm59dbt6y20vhx23n4ebxs1fz68d9m5ni1nb4ne0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **DSA , Web Development**
