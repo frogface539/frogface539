@@ -34,4 +34,4 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/frogface619?theme=dark&font=Mina)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogface539&show_icons=true&locale=en&layout=compact" alt="frogface539" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=frogface539&" alt="frogface539" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frogface539&" alt="frogface539" /></p>
