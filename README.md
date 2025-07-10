@@ -26,6 +26,7 @@
 </p>
 
 <h3 align="center">LeetCode Progress:</h3>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/frogFace619?theme=nord&font=Noto%20Sans%20Bhaiksuki&ext=heatmap)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogface539&show_icons=true&locale=en&layout=compact" alt="frogface539" /></p>
