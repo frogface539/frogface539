@@ -24,7 +24,7 @@
 <a href="https://instagram.com/typical_laxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typical_laxay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frogface619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frogface619" height="30" width="40" /></a>
 </p>
-<p align = "center">
+<p align="center">
   <h3>LeetCode Progress:</h3>
   <img src = "https://leetcard.jacoblin.cool/frogFace619?theme=dark&font=Noto%20Sans%20Bhaiksuki&ext=heatmap"/>
 </p>
