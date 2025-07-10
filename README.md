@@ -26,7 +26,7 @@
 </p>
 <p align = "center">
   <h3>LeetCode Progress:</h3>
-  <img src = "https://leetcard.jacoblin.cool/frogFace619?theme=dark&font=Noto%20Sans%20Bhaiksuki&ext=heatmap">
+  <img src = "https://leetcard.jacoblin.cool/frogFace619?theme=dark&font=Noto%20Sans%20Bhaiksuki&ext=heatmap"/>
 </p>
 
 
