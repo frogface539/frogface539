@@ -24,14 +24,12 @@
 <a href="https://instagram.com/typical_laxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typical_laxay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frogface619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frogface619" height="30" width="40" /></a>
 </p>
+<p align = "center">
+  <h3 align="center">LeetCode Progress:</h3>
+  <img src = "https://leetcard.jacoblin.cool/frogFace619?theme=dark&font=Noto%20Sans%20Bhaiksuki&ext=heatmap" 
+</p>
 
-<h3 align="center">LeetCode Progress:</h3>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/frogFace619?theme=nord&font=Noto%20Sans%20Bhaiksuki&ext=heatmap)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogface539&show_icons=true&locale=en&layout=compact" alt="frogface539" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frogface539&" alt="frogface539" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frogface539&label=Profile%20views&color=0e75b6&style=flat" alt="frogface539" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frogface539" alt="frogface539" /></a> </p>
