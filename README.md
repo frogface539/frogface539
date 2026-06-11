@@ -21,7 +21,7 @@
 <a href="https://twitter.com/frogface619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frogface619" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshay-jain-a48979289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshay-jain-a48979289" height="30" width="40" /></a>
 <a href="https://fb.com/lakshayjain632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakshayjain632" height="30" width="40" /></a>
-<a href="https://instagram.com/typical_laxay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typical_laxay" height="30" width="40" /></a>
+<a href="https://instagram.com/laxay_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typical_laxay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frogface619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frogface619" height="30" width="40" /></a>
 </p>
 <p align="center">
